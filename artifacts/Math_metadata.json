@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"NeuroNarrative_flattened.sol": "Math"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"NeuroNarrative_flattened.sol": {
+			"keccak256": "0x4150e716c0530710410e7f48ae9d552f3f8ddcf8600b25529e6182cb3eb96285",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d1329bcedf07bf8baafd5d89144a5d737194247a906792cc8f3f95e905a2a2d1",
+				"dweb:/ipfs/QmZjFMoxG78K9Z6iSFRaPWzeYe94Bn8AzVeafU7J3fXMu9"
+			]
+		}
+	},
+	"version": 1
+}
