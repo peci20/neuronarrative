@@ -42,5 +42,5 @@ This token has passed **GoPlusLabs Token Security Detection** with:
 ## 🌐 Official Links
 
 - 🌍 Website: [neuronarrative.info](https://neuronarrative.info)
-- 🐦 Twitter: [@promaxstudiooo](https://x.com/nnanarrative)
+- 🐦 Twitter: [@nnanarrative](https://x.com/nnanarrative)
 - 🔐 Verified on: [GoPlus Token Detection](https://neuronarrative.info/security)
